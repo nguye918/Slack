@@ -305,6 +305,90 @@ body {
   color: #3F46AD;
 }
 
+/* other footer */
+
+.footer {
+  background-color: #F5F5F5;
+  padding: 2rem 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer ul {
+  display: inline-flex;
+  align-items: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer li {
+  text-align: left;
+  margin-right: 1.5rem;
+  text-decoration: none;
+}
+
+.footer a {
+  text-decoration: none;
+  color: #6d6f7b;
+  font-size: .875rem;
+  font-weight: 600;
+  transition: color .25s ease-out;
+}
+
+.footer a:hover {
+  color: #3F46AD;
+}
+
+.icon-twitter {
+  background-image: url('../assets/twitter-logo.svg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 16px;
+  height: 16px;
+  transition: all .25s ease-out;
+}
+
+.icon-twitter:hover {
+  opacity: .75;
+}
+
+.icon-facebook {
+  background-image: url('../assets/facebook-logo.svg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 9px;
+  height: 19px;
+  transition: all .25s ease-out;
+}
+
+.icon-youtube {
+  background-image: url('../assets/youtube-logo.svg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 24px;
+  height: 17px;
+  transition: all .25s ease-out;
+}
+
+.location:before {
+  background-image: url('http://icons.iconarchive.com/icons/icons-land/vista-flags/128/United-States-Flag-2-icon.png');
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+  background-size: 16px;
+  content: '';
+  margin-right: .5rem;
+  vertical-align: text-top;
+
+}
 
 
 
