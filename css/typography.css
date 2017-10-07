@@ -1,0 +1,160 @@
+/* =================================
+  Typograhy
+==================================== */
+
+/* ---- Hero ---- */
+
+.hero-title-light {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: center;
+  color: #323648;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.hero-subtitle-light {
+  font-size: 1rem;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #5b5e6d;
+  margin-top: .5rem;
+  text-align: center;
+}
+
+/* ---- Section Titles ---- */
+
+.section-title-dark {
+  font-family: 'Playfair Display', serif;
+  font-size: 2rem;
+  line-height: 1.5;
+  font-weight: 500;
+  color: #323648;
+  margin-bottom: 0;
+}
+
+.section-tit-dark {
+  font-family: 'Playfair Display', serif;
+  font-size: 2rem;
+  line-height: 1.5;
+  font-weight: 600;
+  color: #323648;
+  margin: 0;
+}
+
+.section-title-light {
+  font-size: 2rem;
+  line-height: 2.5rem;
+  font-weight: 500;
+  color: #ffffff;
+  margin-bottom: 0;
+}
+
+
+/* ---- Sub-Titles ---- */
+
+.section-subtitle-dark {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #969CA5;
+  margin-top: .5rem;
+  margin-bottom: 2rem;
+}
+
+.section-subtitle-light {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 400;
+  color: #ffffff;
+  margin-top: .5rem;
+  margin-bottom: 2rem;
+}
+
+/* ---- Body ---- */
+
+.body-medium-dark {
+  font-size: 1.5rem;
+  line-height: 1.5;
+  font-weight: 500;
+  color: #6b7c93;
+  margin-bottom: 0;
+  text-align: left;
+}
+
+.body-regular-dark {
+  font-size: 1rem;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #5b5e6d;
+  margin-top: 1rem;
+  margin-bottom: 0;
+  text-align: left;
+}
+
+.body-reg-dark {
+  font-size: 1rem;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #5b5e6d;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.body-regs-dark {
+  font-size: 1rem;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #5b5e6d;
+  text-align: left;
+  margin: 0;
+}
+
+.body-regular-light {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #6b7c93;
+  margin-top: 1rem;
+  margin-bottom: .5;
+  text-align: left;
+}
+
+/* ---- Quote ---- */
+
+.quote {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #5b5e6d;
+  margin-top: 1rem;
+  margin-bottom: .5;
+  text-align: left;
+  letter-spacing: .025;
+}
+
+.quote-attribution {
+  font-size: .875rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #5b5e6d;
+  margin-top: 1rem;
+  margin-bottom: .5;
+  text-align: left;
+}
+
+/* ---- Footer ---- */
+
+.footer-title {
+  font-size: .875rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #6d6f7b;
+  text-align: left;
+  margin: 0;
+}

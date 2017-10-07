@@ -1,0 +1,88 @@
+/* =================================
+  Background Styles
+==================================== */
+
+/* ---- Background ---- */
+
+.bg-grey {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
+.bg-light {
+  background-color: #ffffff;
+  margin: 0;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
+.bg-gradient {
+  /*background-color: #6BE0A8;*/
+
+  /* Fallback (could use .jpg/.png alternatively) */
+  background-color: #6BE0A8;
+
+  /* Safari 4, Chrome 1-9, iOS 3.2-4.3, Android 2.1-3.0 */
+  background-image:
+    -webkit-gradient(linear, left top, right top, from(#4098FF), to(#6BE0A8));
+    height: 500px;
+    margin: 0;
+  }
+
+
+
+
+
+/* =================================
+  Spacing
+==================================== */
+
+/* ---- Margin ---- */
+
+.m-t-xl {
+  margin-top: 6rem;
+}
+
+.m-b-xl {
+  margin-top: 6rem;
+}
+
+.m-t-l {
+  margin-top: 2rem;
+}
+
+.m-t-s {
+  margin-top: 1rem;
+}
+
+.m-l-s {
+  margin-left: 1rem;
+}
+
+.m-r-s {
+  margin-right: 1rem;
+}
+
+/* ---- Padding ---- */
+
+.p-xl {
+  padding: 6rem;
+}
+
+.p-t-xl {
+  padding-top: 6rem;
+}
+
+.p-t-m {
+  padding-top: 2rem;
+}
+
+.p-b-xl {
+  padding-bottom: 6rem;
+}
+
+.p-b-m {
+  padding-bottom: 3rem;
+}
