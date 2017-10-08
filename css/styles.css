@@ -248,7 +248,7 @@ body {
   margin: 0 auto 6rem;
 }
 
-.content-img-3 {
+/*.content-img-3 {
   background-image: url('../assets/body-content-4.png');
   background-repeat: no-repeat;
   background-position: center center;
@@ -256,7 +256,7 @@ body {
   height: 400px;
   width: 600px;
   margin: 6rem auto 0;
-}
+}*/
 
 .content-img-4 {
   background-image: url('../assets/enterprise_grid_logo.png');

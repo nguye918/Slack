@@ -122,6 +122,17 @@
     width: 80%;
   }
 
+  .content-img-3 {
+    background-image: url('../assets/body-content-4.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 850px;
+    width: 900px;
+    margin-top: -7rem;
+    margin-left: -18rem;
+  }
+
 }
 
 /* =================================
@@ -141,6 +152,17 @@
 
   .menu-icon {
     display: none;
+  }
+
+  .content-img-3 {
+    background-image: url('../assets/body-content-4.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 850px;
+    width: 900px;
+    margin-top: -18rem;
+    margin-left: -22rem;
   }
 }
 
