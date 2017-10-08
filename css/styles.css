@@ -363,7 +363,9 @@ body {
   transition: all .25s ease-out;
 }
 
-.icon-twitter:hover {
+.icon-twitter:hover,
+.icon-facebook:hover,
+.icon-youtube:hover {
   opacity: .75;
 }
 
