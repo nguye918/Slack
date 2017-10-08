@@ -137,7 +137,13 @@ body {
   transition: opacity .25s ease-out;
 }
 
-.slack-logo:hover {
+.slack-logo-overlay {
+  height: 80px;
+  transition: opacity .25s ease-out;
+}
+
+.slack-logo:hover,
+.slack-logo-overlay:hover {
   opacity: .75;
 }
 
