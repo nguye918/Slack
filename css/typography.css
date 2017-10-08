@@ -15,6 +15,26 @@
   margin-top: 0;
 }
 
+.hero-subtitle-light-2 {
+  font-size: 1rem;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #5b5e6d;
+  margin-top: .5rem;
+  text-align: left;
+}
+
+.hero-title-light-2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1;
+  text-align: left;
+  color: #323648;
+  margin-bottom: 2rem;
+  margin-top: 0;
+}
+
 .hero-subtitle-light {
   font-size: 1rem;
   line-height: 1.5;

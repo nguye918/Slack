@@ -92,12 +92,22 @@ body {
   margin-bottom: -10rem;
 }
 
-.hero-img {
+.hero-img-2 {
   background-image: url('../assets/body-content-3.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   height: 600px;
+}
+
+/* ---- Home ---- */
+
+.hero-img {
+  background-image: url('../assets/home-hero.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 500px;
 }
 
 
