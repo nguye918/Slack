@@ -10,6 +10,30 @@
     width: 80%;
   }
 
+    /* ---- Typography---- */
+
+    .hero-title-light {
+
+    }
+
+    .hero-subtitle-light {
+
+    }
+
+}
+
+/* =================================
+  Tablet Breakpoint
+==================================== */
+
+/* ---- Hero Content ---- */
+
+@media (min-width: 48rem) {
+
+  .container {
+    width: 80%;
+  }
+
   /* ---- Navigation ---- */
 
   .navigation-items {
@@ -92,38 +116,6 @@
     transform: translateY(-4px);
   }
 
-    /* ---- Typography---- */
-
-    .hero-title-light {
-
-    }
-
-    .hero-subtitle-light {
-
-    }
-
-}
-
-/* =================================
-  Tablet Breakpoint
-==================================== */
-
-/* ---- Hero Content ---- */
-
-@media (min-width: 48rem) {
-
-  .container {
-    width: 80%;
-  }
-
-  .navigation-items {
-    display: block;
-  }
-
-  .menu-icon {
-    display: none;
-  }
-
 }
 
 /* =================================
@@ -135,6 +127,14 @@
 @media (min-width: 62rem) {
   .container {
     width: 80%;
+  }
+
+  .navigation-items {
+    display: block;
+  }
+
+  .menu-icon {
+    display: none;
   }
 }
 
