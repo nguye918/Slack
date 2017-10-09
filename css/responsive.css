@@ -68,7 +68,7 @@
     background-color: #3F46AD;
     padding: 0;
     transform: translateX(100%);
-    transition: all .75s ease-in-out;
+    transition: all .5s ease-in-out;
   }
 
   .overlay-menu {
