@@ -32,13 +32,9 @@ const linkArrow = document.querySelector('.link-arrow');
 const arrowIcon = document.querySelector('.icon-img');
 
 menu.addEventListener('click', () => {
-  overlay.style.display = 'block';
+  overlay.style.WebkitTransform = "translateX(0px)";
 });
 
 close.addEventListener('click', () => {
-  overlay.style.display = 'none';
-});
-
-linkArrow.addEventListener('click', () => {
-  arrowIcon.style.transform = 'translate(20px)';
+  overlay.style.WebkitTransform = "translateX(100%)";
 });
