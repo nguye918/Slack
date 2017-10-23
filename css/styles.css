@@ -110,6 +110,24 @@ body {
   height: 500px;
 }
 
+input {
+  width: 100%;
+  color: #5b5e6d;
+  padding: 1.5rem;
+  border: 1px solid #ebebeb;
+  border-radius: 4px;
+}
+
+.cta {
+  display: flex;
+  height: 60px;
+  margin-bottom: 1rem;
+}
+
+.cta input {
+  margin-right: 1.5rem;
+}
+
 
 
 
